@@ -1,4 +1,4 @@
-# Hello World, I'm Noe S Setenta Jr👋
+# Hello World, I'm Noe  Setenta Jr👋
 Computer Engineering Enthusiast | Cyber Security | Open Source Contributor
 
 Welcome to my GitHub profile! I'm a passionate Computer Engineering student  with a strong interest in **Cyber Security**, **Artificial Intelligence (AI)**, **Machine Learning (ML)**, **Embedded Systems**, and **Software Development**. I'm constantly exploring new technologies, solving problems, and contributing to open-source projects.
