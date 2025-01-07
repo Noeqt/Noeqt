@@ -11,11 +11,26 @@ Welcome to my GitHub profile! I'm a passionate Computer Engineering student  wit
 - 💬 Ask me about **Cyber Security**, **Java**,**C++**, **Python**, **Embedded Systems**, **Data Structures**, **Algorithms**, **AI/ML**, and **IoT**.
 - 📫 How to reach me:https://www.facebook.com/profile.php?id=100037066451535
 
+## 🎉 Fun Facts:
+- 🌍 I am student of life.
+- 🎮 In my spare time, I trade.
+- 🤖 I have an obsession with robots and am always trying to make them smarter by adding new sensors or integrating them with AI.
+- ☕ I believe a cup of coffee and solving algorithms go hand in hand!
+
+## 🎯 Current Adventures:
+- **Exploring AI for Cyber Security**: I'm experimenting with machine learning models to detect and prevent cyber attacks, such as network intrusion or malware analysis.
+- **Blockchain in Cyber Security**: Currently diving into how blockchain technology can improve security in digital transactions and identity management systems.
+- **Trading**: T am learning the technical analysis to make extra profit.
+
+
+
 ## 🔧 Technologies & Tools I Use:
 - **Languages**: Python, C++, Java, C, SQL
 - **Tools**:  Visual Studio Code, MATLAB
 - **Database**: MySQL
 - **Embedded Systems**: Arduino
+
+🎯 Current Adventures
 
 
 ## 🛠️ Featured Projects:
