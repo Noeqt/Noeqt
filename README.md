@@ -4,11 +4,11 @@ Computer Engineering Enthusiast | Cyber Security | Open Source Contributor
 Welcome to my GitHub profile! I'm a passionate Computer Engineering student  with a strong interest in **Cyber Security**, **Artificial Intelligence (AI)**, **Machine Learning (ML)**, **Embedded Systems**, and **Software Development**. I'm constantly exploring new technologies, solving problems, and contributing to open-source projects.
 
 ## 🚀 About Me:
-- 🔭 I’m currently working on various projects involving **Cyber Security**, **AI**, **deep learning**, and **IoT**.
-- 🌱 I’m currently learning about **Cyber Security**, **Blockchain**, and **Advanced Algorithms**.
+- 🔭 I’m currently working on various projects involving **Cyber Security**, **AI**, and **deep learning**.
+- 🌱 I’m currently learning about **Cyber Security** and **Advanced Algorithms**.
 - 👯 I’m looking to collaborate on **Cyber Security**, **AI-based projects**, and **embedded systems**.
 - 🤔 I’m passionate about **problem-solving** and **building efficient systems**.
-- 💬 Ask me about **Cyber Security**, **Java**,**C++**, **Python**, **Embedded Systems**, **Data Structures**, **Algorithms**, **AI/ML**, and **IoT**.
+- 💬 Ask me about **Cyber Security**, **Java**, **Python**, **Embedded Systems**, **Data Structures**, and **Algorithms**.
 - 📫 How to reach me:https://www.facebook.com/profile.php?id=100037066451535
 
 ## 🎉 Fun Facts:
@@ -19,13 +19,12 @@ Welcome to my GitHub profile! I'm a passionate Computer Engineering student  wit
 
 ## 🎯 Current Adventures:
 - **Exploring AI for Cyber Security**: I'm experimenting with machine learning models to detect and prevent cyber attacks, such as network intrusion or malware analysis.
-- **Blockchain in Cyber Security**: Currently diving into how blockchain technology can improve security in digital transactions and identity management systems.
 - **Trading**: T am learning the technical analysis to make extra profit.
 
 
 
 ## 🔧 Technologies & Tools I Use:
-- **Languages**: Python, C++, Java, C, SQL
+- **Languages**: Python, Java, C, SQL
 - **Tools**:  Visual Studio Code, MATLAB
 - **Database**: MySQL
 - **Embedded Systems**: Arduino
